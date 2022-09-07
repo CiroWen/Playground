@@ -4,7 +4,7 @@ public class Inheriatance {
 
     private void run() {
         System.out.println("run");
-
+// 1
     }
     
     protected  void rush() {
